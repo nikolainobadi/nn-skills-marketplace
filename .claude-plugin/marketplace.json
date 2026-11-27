@@ -1,5 +1,5 @@
 {
-  "name": "nn-swift-skills",
+  "name": "nn-skills-marketplace",
   "description": "API reference skills for Nikolai Nobadi's public Swift packages. Each skill lives in the package repo it documents, so the API and its docs change together.",
   "owner": {
     "name": "Nikolai Nobadi",
@@ -106,7 +106,7 @@
       },
       "description": "Architecture reference for Swift command-line tools built on NnArgumentParser: root command and factory, the NnWorkflow inspect/collect/resolve pipeline, folder layout, file style, and workflows for a new CLI, for adding a command, for reviewing an existing tool, and for catching a tool up after architecture changes.",
       "dependencies": [
-        "NnArgumentParser@nn-swift-skills"
+        "NnArgumentParser@nn-skills-marketplace"
       ]
     },
     {
