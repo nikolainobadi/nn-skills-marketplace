@@ -27,16 +27,6 @@
       "description": "NnArgumentParser Swift API reference for building testable command-line tools on top of Apple's ArgumentParser — the NnRootCommand protocol with a contextFactory dependency-injection seam, the NnWorkflow inspect/collect/perform command pipeline, and the testRun helper and workflow stage mocks for driving commands end-to-end in tests."
     },
     {
-      "name": "NnShellKit",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/nikolainobadi/NnShellKit.git",
-        "path": "Skills/NnShellKit",
-        "ref": "2.5.0"
-      },
-      "description": "NnShellKit Swift API reference for shell command execution from Swift with protocol-based design, timeout support, and MockShell testing utilities."
-    },
-    {
       "name": "NnFileKit",
       "source": {
         "source": "git-subdir",
