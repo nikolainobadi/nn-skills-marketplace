@@ -158,6 +158,16 @@
         "ref": "2.3.1"
       },
       "description": "NnTestKit testing plugin — NnTestKit API reference and NnTestKit leak-tracking conventions."
+    },
+    {
+      "name": "nn-shell-kit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnShellKit.git",
+        "path": "Skills/nn-shell-kit",
+        "ref": "2.5.1"
+      },
+      "description": "NnShellKit Swift API reference for shell command execution from Swift with protocol-based design, timeout support, and MockShell testing utilities."
     }
   ]
 }
