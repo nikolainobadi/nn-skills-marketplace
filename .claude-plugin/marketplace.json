@@ -32,9 +32,9 @@
         "source": "git-subdir",
         "url": "https://github.com/nikolainobadi/NnTestKit.git",
         "path": "Skills/NnTesting",
-        "ref": "2.2.1"
+        "ref": "2.3.0"
       },
-      "description": "Swift testing plugin — NnTestKit API reference and unit test workflow engine for iOS/macOS projects."
+      "description": "NnTestKit testing plugin — NnTestKit API reference and NnTestKit leak-tracking conventions."
     },
     {
       "name": "NnShellKit",
