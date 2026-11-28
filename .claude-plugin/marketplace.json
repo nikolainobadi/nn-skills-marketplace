@@ -17,16 +17,6 @@
       "description": "NnReminderKit Swift API reference for local notification scheduling and management on Apple platforms."
     },
     {
-      "name": "NnSwiftUIKit",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/nikolainobadi/NnSwiftUIKit.git",
-        "path": "Skills/NnSwiftUIKit",
-        "ref": "4.2.3"
-      },
-      "description": "NnSwiftUIKit Swift API reference — reusable SwiftUI components, error handling, font system, and view modifiers for iOS/macOS/watchOS."
-    },
-    {
       "name": "NnVersionKit",
       "source": {
         "source": "git-subdir",
