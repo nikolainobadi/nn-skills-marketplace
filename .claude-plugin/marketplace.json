@@ -7,16 +7,6 @@
   },
   "plugins": [
     {
-      "name": "SwiftPickerKit",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/nikolainobadi/SwiftPickerKit.git",
-        "path": "Skills/SwiftPickerKit",
-        "ref": "0.15.1"
-      },
-      "description": "SwiftPickerKit Swift API reference for terminal-based interactive pickers"
-    },
-    {
       "name": "NnReminderKit",
       "source": {
         "source": "git-subdir",
