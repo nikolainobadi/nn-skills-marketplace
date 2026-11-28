@@ -158,6 +158,16 @@
         "ref": "0.10.1"
       },
       "description": "NnFileKit Swift API reference for file system access from Swift — protocol-based FileSystem/Directory design with a FileManager-backed DefaultFileSystem and MockFileSystem/MockDirectory testing utilities."
+    },
+    {
+      "name": "nn-argument-parser",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nikolainobadi/NnArgumentParser.git",
+        "path": "Skills/nn-argument-parser",
+        "ref": "3.0.1"
+      },
+      "description": "NnArgumentParser Swift API reference for building testable command-line tools on top of Apple's ArgumentParser — the NnRootCommand protocol with a contextFactory dependency-injection seam, the NnWorkflow inspect/collect/perform command pipeline, and the testRun helper and workflow stage mocks for driving commands end-to-end in tests."
     }
   ]
 }
