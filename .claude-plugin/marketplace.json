@@ -17,16 +17,6 @@
       "description": "SwiftPickerKit Swift API reference for terminal-based interactive pickers"
     },
     {
-      "name": "NnArgumentParser",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/nikolainobadi/NnArgumentParser.git",
-        "path": "Skills/NnArgumentParser",
-        "ref": "3.0.0"
-      },
-      "description": "NnArgumentParser Swift API reference for building testable command-line tools on top of Apple's ArgumentParser — the NnRootCommand protocol with a contextFactory dependency-injection seam, the NnWorkflow inspect/collect/perform command pipeline, and the testRun helper and workflow stage mocks for driving commands end-to-end in tests."
-    },
-    {
       "name": "NnReminderKit",
       "source": {
         "source": "git-subdir",
@@ -76,7 +66,7 @@
       },
       "description": "Architecture reference for Swift command-line tools built on NnArgumentParser: root command and factory, the NnWorkflow inspect/collect/resolve pipeline, folder layout, file style, and workflows for a new CLI, for adding a command, for reviewing an existing tool, and for catching a tool up after architecture changes.",
       "dependencies": [
-        "NnArgumentParser@nn-skills-marketplace"
+        "nn-argument-parser@nn-skills-marketplace"
       ]
     },
     {
